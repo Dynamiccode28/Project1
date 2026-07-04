@@ -175,8 +175,6 @@ This project demonstrates practical understanding of:
 
 ## Future Improvements
 
-- Multiple producer and consumer threads
-- Configurable worker pool
 - Log filtering by severity
 - Keyword-based log search
 - JSON and CSV log support
